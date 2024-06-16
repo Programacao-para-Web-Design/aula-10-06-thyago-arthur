@@ -1,8 +1,5 @@
 header {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16pt;
-    font-family:  Gill Sans, sans-serif;
+  background: rgb(156,164,241);
+  background: linear-gradient(180deg, rgba(156,164,241,1) 0%, rgba(156,164,241,1) 48%, rgba(134,191,203,1) 100%);
+
 }
